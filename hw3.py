@@ -9,4 +9,4 @@ elif x < 0 and y < 0:
 elif x > 0 and y < 0:
     print('4')
 else:
-    print('Некорректный ввод координат')
+    print('Некорректные координаты')

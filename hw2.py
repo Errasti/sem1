@@ -14,4 +14,4 @@ print(check_truth(False, True, False))
 print(check_truth(False, False, False))
 print(check_truth(True, False, True))
 
-print('Функция истина при всех значениях предикат')
+print('Функция истинна при любых значениях предикат')
